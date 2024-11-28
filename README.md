@@ -28,7 +28,7 @@
 <ol>
   <li>Clone the repository:</li>
 
-git clone https://github.com/your-username/spring-boot-course-management.git
+git clone https://github.com/chisa-sifiso/spring-boot-course-management.git
 <li>Navigate to the project directory:</li>
 bash
 Copy code
