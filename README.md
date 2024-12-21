@@ -50,3 +50,4 @@ mvn spring-boot:run
 <p> Contributions are welcome! Please fork the repository and submit a pull request. </p>
 <u>License</u>
 <p> This project is licensed under the <strong>MIT License</strong>. </p> ```
+<h1>developed by sifiso vinjwa</h1>
